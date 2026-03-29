@@ -1,0 +1,93 @@
+
+body{
+  background-color:#EFD8D6;
+}
+header{
+    background-color:#C2C6B9;
+    text-align: center;
+    color:#422B23;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    max-width:1000px;
+    margin:40px auto;
+    padding: 40px;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 20px;
+}
+
+
+h3{
+  font-weight: bold;
+    color:#422B23;
+    text-align: center;
+    background:#DBA1A2;
+    padding:10px;
+    margin:9px;
+     font-size: 20px;
+     box-shadow: 1px 1px 1px 1px;
+     border-radius: 20px;
+
+}
+.cv ul li{
+   list-style: none;
+}
+p{
+    margin-left: 18px;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contact {
+  text-align: center; 
+}
+
+.circle {
+  display: inline-flex; 
+  justify-content: center;
+  align-items: center;
+
+  width: 50px;
+  height:50px;
+
+  border-radius: 50%;
+  background:#422B23;
+  color: white;
+
+  font-size: 22px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.circle:hover {
+  background:#DBA1A2;
+  
+}
+
+.card{
+max-width:365px;
+margin:5px auto;
+background-color: #C2C6B9;
+
+}
+.btn-primary{
+
+background-color:#422B23;
+}
+.btn-primary:hover{
+  background:#DBA1A2;
+ 
+}
+.card-title{color: #422B23;
+  font-weight: bold;
+}
+.card p{
+  font-size:17px;
+}
+
+.progress-bar{
+  background-color: #52352b;
+  font-weight: bold;
+ 
+}
